@@ -24,7 +24,7 @@ This is an implementation of the game Mastermind using C#.
 
 ## Example
 
-> ./dotnet run my_mastermind -- -c 0123 -t 10
+> ./dotnet run my_mastermind.cs -- -c 0123 -t 10
 
 Can you break the code? Enter a valid guess.
 
