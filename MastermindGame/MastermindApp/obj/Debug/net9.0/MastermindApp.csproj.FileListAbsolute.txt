@@ -1,0 +1,14 @@
+C:\Users\FMuda\MastermindGame\MastermindApp\bin\Debug\net9.0\MastermindApp.exe
+C:\Users\FMuda\MastermindGame\MastermindApp\bin\Debug\net9.0\MastermindApp.deps.json
+C:\Users\FMuda\MastermindGame\MastermindApp\bin\Debug\net9.0\MastermindApp.runtimeconfig.json
+C:\Users\FMuda\MastermindGame\MastermindApp\bin\Debug\net9.0\MastermindApp.dll
+C:\Users\FMuda\MastermindGame\MastermindApp\bin\Debug\net9.0\MastermindApp.pdb
+C:\Users\FMuda\MastermindGame\MastermindApp\obj\Debug\net9.0\MastermindApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FMuda\MastermindGame\MastermindApp\obj\Debug\net9.0\MastermindApp.AssemblyInfoInputs.cache
+C:\Users\FMuda\MastermindGame\MastermindApp\obj\Debug\net9.0\MastermindApp.AssemblyInfo.cs
+C:\Users\FMuda\MastermindGame\MastermindApp\obj\Debug\net9.0\MastermindApp.csproj.CoreCompileInputs.cache
+C:\Users\FMuda\MastermindGame\MastermindApp\obj\Debug\net9.0\MastermindApp.dll
+C:\Users\FMuda\MastermindGame\MastermindApp\obj\Debug\net9.0\refint\MastermindApp.dll
+C:\Users\FMuda\MastermindGame\MastermindApp\obj\Debug\net9.0\MastermindApp.pdb
+C:\Users\FMuda\MastermindGame\MastermindApp\obj\Debug\net9.0\MastermindApp.genruntimeconfig.cache
+C:\Users\FMuda\MastermindGame\MastermindApp\obj\Debug\net9.0\ref\MastermindApp.dll
